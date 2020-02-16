@@ -17,5 +17,5 @@ rm -rf /data/data/comtencentig/app_bugly
 rm -rf /data/data/comtencentig/app_crashrecord
 rm -rf /storage/emulated/0/tencent
 echo " deleted logs looping... "
-
+sleep 1
 done
